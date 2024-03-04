@@ -44,6 +44,7 @@ export default function Header() {
           <a
             class="d-flex flex-column flex-lg-row gap-4 align-items-start align-items-lg-center link-body-emphasis text-decoration-none"
             href="https://t.me/ydrive"
+            target="_blank"
           >
             <img
               class="logo"
