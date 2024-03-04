@@ -43,7 +43,7 @@ export default function Header() {
           </a>
           <a
             class="d-flex flex-column flex-lg-row gap-4 align-items-start align-items-lg-center link-body-emphasis text-decoration-none"
-            href="tel:+375 (29) 299-99-27"
+            href="https://t.me/ydrive"
           >
             <img
               class="logo"
