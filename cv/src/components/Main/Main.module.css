@@ -1,0 +1,18 @@
+.image {
+  /* width: 500px; */
+  border-radius: 50px;
+  box-shadow: 0 0 5px rgba(235, 233, 233, 0.4);
+  padding: 1em;
+  margin-bottom: 1em;
+  margin-left: 2em;
+  /* max-width:90% */
+  width: 450%;
+  max-width: 300px;
+  height: auto;
+}
+
+.responsive {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
